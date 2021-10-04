@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Kamaroolkarim\Windle\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WindleCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'windle';
 
     public $description = 'My command';
 
