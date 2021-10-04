@@ -2,9 +2,9 @@
 
 namespace Kamaroolkarim\Windle;
 
+use Kamaroolkarim\Windle\Commands\WindleCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Kamaroolkarim\Windle\Commands\WindleCommand;
 
 class WindleServiceProvider extends PackageServiceProvider
 {
